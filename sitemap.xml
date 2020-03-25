@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://qdigital.ca/index.html</loc>
+    <lastmod>2020-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/logo10.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/pasted-svg-45x33.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/pasted-svg-55998x48.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/analytics_white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/rank_white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/pasted-svg-215505x2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/pasted-svg-52.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://qdigital.ca/images/pasted-svg-47x34.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://qdigital.ca/assets/anchorscroll.mulib</loc>
+    <lastmod>2015-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
