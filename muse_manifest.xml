@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="qdigital.ca" resolutions="1x" timestamp="1585122710640">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="qdigital.ca" resolutions="1x" timestamp="1585126068798">
   <folder name="assets">
     <file name="anchorscroll.mulib" crc="195413691" seo="true" mt="1431708170000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="394370548" ref="index"/>
-    <file name="nomq_index.css" crc="4112263975" ref="index"/>
+    <file name="index.css" crc="4080835411" ref="index"/>
+    <file name="nomq_index.css" crc="153289961" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,7 +42,7 @@
     <file name="pasted svg 55998x48_poster_.png" crc="4061055023" ref="index"/>
     <file name="u3423-19.png" crc="3890804364" ref="index"/>
     <file name="u3394-6.png" crc="355559764" ref="index"/>
-    <file name="u3478-19.png" crc="84616035" ref="index"/>
+    <file name="u3478-19.png" crc="3906997987" ref="index"/>
     <file name="u3414-4.png" crc="412882765" ref="index"/>
     <file name="u3547-19.png" crc="3994885337" ref="index"/>
     <file name="u3544-4.png" crc="387117923" ref="index"/>
@@ -83,10 +83,19 @@
     <file name="u5025-4.png" crc="4294158910" ref="index"/>
     <file name="u5004-6.png" crc="17355787" ref="index"/>
     <file name="u5502-4.png" crc="334864370" ref="index"/>
-    <file name="u5710-4.png" crc="421233728" ref="index"/>
+    <file name="u5710-4.png" crc="295471464" ref="index"/>
     <file name="u5743-4.png" crc="3822658472" ref="index"/>
     <file name="u5752-4.png" crc="519532203" ref="index"/>
     <file name="u5761-4.png" crc="4120494852" ref="index"/>
+    <file name="u5832-6.png" crc="4176850687" ref="index"/>
+    <file name="u5853-19.png" crc="3890804364" ref="index"/>
+    <file name="u5930-4.png" crc="352133057" ref="index"/>
+    <file name="u5964-4.png" crc="451743360" ref="index"/>
+    <file name="u5973-4.png" crc="39793850" ref="index"/>
+    <file name="u5880-4.png" crc="506916907" ref="index"/>
+    <file name="u5891-6.png" crc="215856493" ref="index"/>
+    <file name="u5940-4.png" crc="384247538" ref="index"/>
+    <file name="u6030-4.png" crc="253275727" ref="index"/>
   </folder>
-  <file name="index.html" crc="232920742" seo="true" mt="1585122595149" redirect="true"/>
+  <file name="index.html" crc="64145593" seo="true" mt="1585126033829" redirect="true"/>
 </manifest>
