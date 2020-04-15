@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="qdigital.ca" resolutions="1x" timestamp="1585126068798">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="qdigital.ca" resolutions="1x" timestamp="1586935189515">
   <folder name="assets">
     <file name="anchorscroll.mulib" crc="195413691" seo="true" mt="1431708170000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4080835411" ref="index"/>
-    <file name="nomq_index.css" crc="153289961" ref="index"/>
+    <file name="index.css" crc="3963738277" ref="index"/>
+    <file name="nomq_index.css" crc="3977003722" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,16 +25,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="logo10_poster_.png" crc="3880758708" ref="index"/>
+    <file name="logo10_poster_.png" crc="308914199" ref="index"/>
     <file name="u250-4.png" crc="3815396180" ref="index"/>
     <file name="pasted-svg-45x33.svg" crc="4093413353" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 45x33_poster_.png" crc="4116009239" ref="index"/>
     <file name="pasted-svg-55998x48.svg" crc="189369378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -43,23 +43,18 @@
     <file name="u3423-19.png" crc="3890804364" ref="index"/>
     <file name="u3394-6.png" crc="355559764" ref="index"/>
     <file name="u3478-19.png" crc="3906997987" ref="index"/>
-    <file name="u3414-4.png" crc="412882765" ref="index"/>
+    <file name="u3414-4.png" crc="307590429" ref="index"/>
     <file name="u3547-19.png" crc="3994885337" ref="index"/>
-    <file name="u3544-4.png" crc="387117923" ref="index"/>
     <file name="analytics_white.svg" crc="4005303892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="analytics_white_poster_.png" crc="240497835" ref="index"/>
-    <file name="rank_white.svg" crc="279181557" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rank_white_poster_.png" crc="83461497" ref="index"/>
     <file name="u1304-4.png" crc="222588288" ref="index"/>
     <file name="pasted-svg-215505x2.svg" crc="4084521033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -69,33 +64,48 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 52_poster_.png" crc="58181573" ref="index"/>
-    <file name="u1420-4.png" crc="243912546" ref="index"/>
     <file name="pasted-svg-47x34.svg" crc="3824753697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 47x34_poster_.png" crc="4137443307" ref="index"/>
-    <file name="u1437-4.png" crc="4058934554" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u5025-4.png" crc="4294158910" ref="index"/>
-    <file name="u5004-6.png" crc="17355787" ref="index"/>
-    <file name="u5502-4.png" crc="334864370" ref="index"/>
-    <file name="u5710-4.png" crc="295471464" ref="index"/>
+    <file name="u5004-6.png" crc="4039379394" ref="index"/>
+    <file name="u5710-4.png" crc="142991456" ref="index"/>
     <file name="u5743-4.png" crc="3822658472" ref="index"/>
-    <file name="u5752-4.png" crc="519532203" ref="index"/>
-    <file name="u5761-4.png" crc="4120494852" ref="index"/>
-    <file name="u5832-6.png" crc="4176850687" ref="index"/>
+    <file name="u5832-6.png" crc="355559764" ref="index"/>
     <file name="u5853-19.png" crc="3890804364" ref="index"/>
-    <file name="u5930-4.png" crc="352133057" ref="index"/>
-    <file name="u5964-4.png" crc="451743360" ref="index"/>
-    <file name="u5973-4.png" crc="39793850" ref="index"/>
-    <file name="u5880-4.png" crc="506916907" ref="index"/>
-    <file name="u5891-6.png" crc="215856493" ref="index"/>
-    <file name="u5940-4.png" crc="384247538" ref="index"/>
+    <file name="u5930-4.png" crc="3892091535" ref="index"/>
+    <file name="u5880-4.png" crc="293588607" ref="index"/>
+    <file name="u5891-6.png" crc="3776341817" ref="index"/>
+    <file name="u5940-4.png" crc="3762285331" ref="index"/>
     <file name="u6030-4.png" crc="253275727" ref="index"/>
+    <file name="rank_b.svg" crc="4056420821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rank_b_poster_.png" crc="4016741019" ref="index"/>
+    <file name="u6127-4.png" crc="3904513863" ref="index"/>
+    <file name="u6454-6.png" crc="4266792742" ref="index"/>
+    <file name="u6456-4.png" crc="3789928956" ref="index"/>
+    <file name="u6457-4.png" crc="116794663" ref="index"/>
+    <file name="u5025-42.png" crc="46462380" ref="index"/>
+    <file name="u5743-42.png" crc="4206577605" ref="index"/>
+    <file name="responsive_white.svg" crc="4124620963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="responsive_white_poster_.png" crc="127216597" ref="index"/>
+    <file name="u6656-4.png" crc="387117923" ref="index"/>
   </folder>
-  <file name="index.html" crc="64145593" seo="true" mt="1585126033829" redirect="true"/>
+  <file name="index.html" crc="153090855" seo="true" mt="1586935182350" redirect="true"/>
 </manifest>
